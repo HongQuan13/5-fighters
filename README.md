@@ -1,5 +1,8 @@
 # 5 Fighters - AI-Powered CRM Chatbot
 
+## Devpost: 
+https://devpost.com/software/5-fighters
+
 ## Inspiration
 Inspired by the potential of AI and machine learning (ML) to revolutionize Customer Relationship Management (CRM), we envisioned a tool that not only assists sales teams during live interactions but also optimizes the entire sales process through smart technology.
 
